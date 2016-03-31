@@ -1,0 +1,15 @@
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphsArray\GraphsArray\bin\Debug\GraphsArray.exe
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphsArray\GraphsArray\bin\Debug\GraphsArray.pdb
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphsArray\GraphsArray\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphsArray\GraphsArray\obj\x86\Debug\GraphsArray.exe
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphsArray\GraphsArray\obj\x86\Debug\GraphsArray.pdb
+K:\Graphs\GraphsArray\GraphsArray\obj\x86\Debug\GraphsArray.exe
+K:\Graphs\GraphsArray\GraphsArray\obj\x86\Debug\GraphsArray.pdb
+K:\Graphs\GraphsArray\GraphsArray\bin\Debug\GraphsArray.exe
+K:\Graphs\GraphsArray\GraphsArray\bin\Debug\GraphsArray.pdb
+K:\Graphs\GraphsArray\GraphsArray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Graphs\GraphsArray\GraphsArray\obj\x86\Debug\GraphsArray.exe
+D:\Graphs\GraphsArray\GraphsArray\obj\x86\Debug\GraphsArray.pdb
+D:\Graphs\GraphsArray\GraphsArray\obj\x86\Debug\GraphsArray.csprojResolveAssemblyReference.cache
+D:\Graphs\GraphsArray\GraphsArray\bin\Debug\GraphsArray.exe
+D:\Graphs\GraphsArray\GraphsArray\bin\Debug\GraphsArray.pdb

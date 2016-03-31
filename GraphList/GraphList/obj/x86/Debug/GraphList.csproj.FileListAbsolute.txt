@@ -1,0 +1,10 @@
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphList\GraphList\bin\Debug\GraphList.exe
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphList\GraphList\bin\Debug\GraphList.pdb
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphList\GraphList\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphList\GraphList\obj\x86\Debug\GraphList.exe
+c:\users\кудесник\documents\visual studio 2010\Projects\GraphList\GraphList\obj\x86\Debug\GraphList.pdb
+K:\Graphs\GraphList\GraphList\obj\x86\Debug\GraphList.exe
+K:\Graphs\GraphList\GraphList\obj\x86\Debug\GraphList.pdb
+K:\Graphs\GraphList\GraphList\bin\Debug\GraphList.exe
+K:\Graphs\GraphList\GraphList\bin\Debug\GraphList.pdb
+K:\Graphs\GraphList\GraphList\obj\x86\Debug\ResolveAssemblyReference.cache
